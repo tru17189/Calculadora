@@ -6,7 +6,7 @@
 
 /**
  *
- * @author ottoalexander
+ * @author ottoalexander & carlos chew 
  */
 public class StackVector implements Stack{
 
