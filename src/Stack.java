@@ -20,4 +20,10 @@ public interface Stack<E>
    public int size();
    // post: returns the number of elements in the stack
 
+    public void pop(int i);
+
+    public void push(int a);
+
+    public void pop(String a);
+
 }

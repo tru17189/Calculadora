@@ -8,7 +8,7 @@
  *
  * @author ottoalexander & carlos chew 
  */
-public class StackVector implements Stack{
+public abstract class StackVector implements Stack{
 
     @Override
     public void push(Object item) {

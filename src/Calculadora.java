@@ -9,6 +9,5 @@
  * @author ottoalexander
  */
 public class Calculadora {
-     CalculadoraI class2 = new CalculadoraI(); 
-     
+     CalculadoraI class2 = new CalculadoraI();     
 }
