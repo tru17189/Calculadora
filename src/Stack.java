@@ -1,3 +1,6 @@
+
+import java.util.Vector;
+
 public interface Stack<E> 
 {
 
@@ -25,5 +28,11 @@ public interface Stack<E>
     public void push(int a);
 
     public void pop(String a);
+
+    public void pop(boolean remove);
+
+    public boolean empty(Vector Vector1);
+
+    public int size(Vector Vector1);
 
 }
